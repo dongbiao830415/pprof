@@ -8,3 +8,4 @@ coverage.txt
 pprof
 third_party/d3flamegraph/d3.js
 third_party/d3flamegraph/node_modules
+.idea

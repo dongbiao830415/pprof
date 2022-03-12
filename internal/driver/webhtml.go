@@ -1338,7 +1338,7 @@ function viewer(baseUrl, nodes) {
       .cellHeight(18)
       .minFrameSize(1)
       .transitionDuration(750)
-      .inverted(true)
+      //.inverted(true)
       .sort(true)
       .title('')
       .tooltip(false)
